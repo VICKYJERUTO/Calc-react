@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  margin-top: 40px;
+}
+.Calculator {
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 20px;
+};
